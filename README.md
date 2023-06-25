@@ -1,7 +1,7 @@
 # 03-springboot-rest-dao-servicelayer-hibernate
 main spring boot rest hibernate mini project
 
-# GENERELL LOGIC
+# GENERAL LOGIC
 ![Employee Service](https://github.com/mustafa-senyuz/03-springboot-rest-dao-servicelayer-hibernate/assets/113122475/f57425d6-07e2-4a8c-bf8a-bf7c63244aa5)
 
 # USAGE
